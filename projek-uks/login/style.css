@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 1000px;
+}
+
+.row {
+  width: 300px;
+  height: 680px;
+  background-color: #96dfaa;
+}
+.text-1 {
+  padding-left: 100px;
+  color: white;
+  font-weight: 400;
+  font-size: 60px;
+}
+.text-2 {
+  text-align: center;
+}
+.tes {
+  color: gray;
+}
+.row img {
+  width: 100px;
+  float: left;
+}
+.text-1 h1 {
+  bottom: 50px;
+}
+.boxs {
+  background-color: rgba(209, 209, 209, 0.582);
+  margin: 212px;
+  padding: 20px;
+  height: 510px;
+  margin-top: -600px;
+}
+.img {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.tes {
+  text-align: center;
+}
+.boxs {
+  width: 600px;
+  height: 520px;
+}
+.control {
+  width: 250px;
+  height: 35px;
+  background-color: rgba(209, 209, 209, 0.582);
+  border: solid rgba(209, 209, 209, 0.582);
+}
+.kotak {
+  padding-left: 160px;
+}
+.label {
+  color: rgba(71, 71, 71, 0.582);
+}
+.label a {
+  color: rgba(71, 71, 71, 0.582);
+  text-decoration: none;
+}
+.tombol {
+  background-color: rgb(42, 167, 42);
+  border-radius: 20px;
+  width: 230px;
+  height: 30px;
+  box-shadow: 1px 2px 5px;
+  color: white;
+  border: solid rgba(209, 209, 209, 0.582);
+}
